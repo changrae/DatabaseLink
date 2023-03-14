@@ -4,9 +4,9 @@ import java.sql.*;
 public class MySQLConnection {
     public static void main(String[] args) {
         // MySQL database information
-        String url = "jdbc:mysql://intercop.iptime.org:3306/goodkn";
-        String user = "goodkn";
-        String password = "goodkn1234!";
+        String url = "";
+        String user = "";
+        String password = "";
         
         // Connection object
         Connection con = null;
